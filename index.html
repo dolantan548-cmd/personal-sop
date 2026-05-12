@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Personal SOP</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root { --theme-color: #4A90D9; }
+    .sidebar { padding-top: 10px; }
+    .markdown-section code { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+  </style>
+</head>
+<body>
+  <div id="app">加载中...</div>
+  <script>
+    window.$docsify = {
+      name: 'Personal SOP',
+      repo: 'dolantan548-cmd/personal-sop',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: {
+        placeholder: '搜索...',
+        noData: '无结果'
+      },
+      markdown: {
+        smartypants: true,
+        renderer: {
+          link: function(href, title, text) {
+            const wikiMatch = text.match(/^\[\[(.+)\]\]$/);
+            if (wikiMatch) {
+              const parts = wikiMatch[1].split('|');
+              const path = parts[0].replace(/\s+/g, '-').toLowerCase() + '.md';
+              const display = parts[1] || parts[0];
+              return `<a href="${path}">${display}</a>`;
+            }
+            return this.origin.link.call(this, href, title, text);
+          }
+        }
+      }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+</body>
+</html>
