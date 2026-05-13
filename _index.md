@@ -1,36 +1,10 @@
-# SOP 索引
+---
+title: "SOP Index"
+---
 
-本目录存放从原始资料提炼出的 **标准操作程序 (Standard Operating Procedures)**。
+# SOP Index
 
-## 活跃 SOP
+Updated: 2026-05-13 14:45
 
-```dataviewjs
-dv.table(
-  ["名称", "分类", "状态", "更新日期"],
-  dv.pages('"wiki/sop"')
-    .where(p => p.type == "sop")
-    .sort(p => p.updated, 'desc')
-    .map(p => [p.file.link, p.category, p.status, p.updated])
-)
-```
-
-## 按分类查看
-
-- **dev**: 开发相关 SOP
-- **writing**: 写作/内容创作 SOP
-- **research**: 研究/调研 SOP
-- **workflow**: 工作流程 SOP
-
-## 创建新 SOP
-
-1. 从 `wiki/sources/` 中识别可标准化的流程
-2. 复制 `_templates/sop.md` 模板
-3. 按模板填写并保存到 `wiki/sop/{category}-{name}.md`
-4. 更新本索引
-
-## SOP 生命周期
-
-```
-原始资料 → 提炼实践 → 形成SOP → 应用验证 → 定期回顾 → 更新或归档
-   ↑___________________________________________________________↓
-```
+- [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
+- [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)

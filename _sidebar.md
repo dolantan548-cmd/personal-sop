@@ -1,3 +1,3 @@
 - [首页](/)
+- [配置飞书 Webhook 机器人消息提醒](configure-feishu-webhook-bot.md)
 - [配置 Vercel 静态站点自动部署](configure-vercel-deployment.md)
-- [配置飞书 Webhook 机器人](configure-feishu-webhook-bot.md)
