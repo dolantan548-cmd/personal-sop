@@ -2,10 +2,16 @@
   "managed_files": [
     "configure-feishu-webhook-bot.md",
     "configure-vercel-deployment.md",
+    "workflow-claude-obsidian.md",
+    "workflow-deployment.md",
+    "workflow-multi-agent.md",
+    "workflow-sop.md",
+    "workflow-uncategorized.md",
+    "workflow-windows.md",
     "_sidebar.md",
     "_index.md"
   ],
-  "synced_at": "2026-05-14T09:25:41.031287",
+  "synced_at": "2026-05-14T09:48:53.574474",
   "source_dir": "D:\\dolan_env\\temp\\project\\personal\\claude-obsidian\\wiki\\sop",
   "site_url": "https://personal-sop.vercel.app"
 }
