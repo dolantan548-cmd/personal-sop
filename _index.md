@@ -4,7 +4,7 @@ title: "SOP Index"
 
 # SOP Index
 
-Updated: 2026-05-15 18:38
+Updated: 2026-05-15 20:10
 
 - [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
 - [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)
@@ -17,12 +17,14 @@ Updated: 2026-05-15 18:38
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_6)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_7)
 - [[SOP: 在 Windows 环境部署 claude-obsidian 知识库并配置 SOP 自动机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_8)
+- [[SOP: claude-obsidian Windows 部署与 SOP 自动生成机制配置]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_9)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_1)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_2)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_3)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_4)
 - [[SOP: claude-obsidian 知识库部署与 SOP 自动机制配置（Windows）]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_5)
+- [[SOP: claude-obsidian Windows 部署与 SOP 自动机制配置]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_6)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent_1)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent_2)
