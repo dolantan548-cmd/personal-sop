@@ -4,7 +4,7 @@ title: "SOP Index"
 
 # SOP Index
 
-Updated: 2026-05-17 20:00
+Updated: 2026-05-18 02:00
 
 - [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
 - [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)
@@ -19,6 +19,7 @@ Updated: 2026-05-17 20:00
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_16)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_17)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_18)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_19)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_2)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_3)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_4)
@@ -50,6 +51,7 @@ Updated: 2026-05-17 20:00
 - [[在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_16)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_17)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_18)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_19)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_2)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_3)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_4)
