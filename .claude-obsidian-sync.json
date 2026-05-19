@@ -19,6 +19,7 @@
     "workflow-claude-obsidian_21.md",
     "workflow-claude-obsidian_22.md",
     "workflow-claude-obsidian_23.md",
+    "workflow-claude-obsidian_24.md",
     "workflow-claude-obsidian_3.md",
     "workflow-claude-obsidian_4.md",
     "workflow-claude-obsidian_5.md",
@@ -55,6 +56,7 @@
     "workflow-sop_21.md",
     "workflow-sop_22.md",
     "workflow-sop_23.md",
+    "workflow-sop_24.md",
     "workflow-sop_3.md",
     "workflow-sop_4.md",
     "workflow-sop_5.md",
@@ -70,7 +72,7 @@
     "_sidebar.md",
     "_index.md"
   ],
-  "synced_at": "2026-05-19T14:00:43.063645",
+  "synced_at": "2026-05-19T20:05:28.202156",
   "source_dir": "D:\\dolan_env\\temp\\project\\personal\\claude-obsidian\\wiki\\sop",
   "site_url": "https://personal-sop.vercel.app"
 }
