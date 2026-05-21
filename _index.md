@@ -4,7 +4,7 @@ title: "SOP Index"
 
 # SOP Index
 
-Updated: 2026-05-21 08:00
+Updated: 2026-05-21 14:02
 
 - [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
 - [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)
@@ -32,6 +32,7 @@ Updated: 2026-05-21 08:00
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_28)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_29)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_3)
+- [[SOP：在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_30)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_4)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_5)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_6)
@@ -47,6 +48,7 @@ Updated: 2026-05-21 08:00
 - [[SOP: claude-obsidian Windows 部署与 SOP 自动机制配置]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_6)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_7)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_8)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-deployment_9)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent_1)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置多 AI 客户端的 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-multi-agent_2)
