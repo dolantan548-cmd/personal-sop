@@ -4,7 +4,7 @@ title: "SOP Index"
 
 # SOP Index
 
-Updated: 2026-05-24 02:01
+Updated: 2026-05-24 08:00
 
 - [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
 - [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)
@@ -39,6 +39,7 @@ Updated: 2026-05-24 02:01
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_34)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_35)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_36)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_37)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_4)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_5)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_6)
@@ -96,6 +97,7 @@ Updated: 2026-05-24 02:01
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_36)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_37)
 - [[在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_38)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_39)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_4)
 - [[在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_5)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_6)
