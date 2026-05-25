@@ -4,7 +4,7 @@ title: "SOP Index"
 
 # SOP Index
 
-Updated: 2026-05-25 14:01
+Updated: 2026-05-25 20:01
 
 - [[配置飞书 Webhook 机器人消息提醒]] | [网页](https://personal-sop.vercel.app/#/configure-feishu-webhook-bot)
 - [[配置 Vercel 静态站点自动部署]] | [网页](https://personal-sop.vercel.app/#/configure-vercel-deployment)
@@ -46,6 +46,7 @@ Updated: 2026-05-25 14:01
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_40)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_41)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_42)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_43)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_5)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_6)
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-claude-obsidian_7)
@@ -109,6 +110,7 @@ Updated: 2026-05-25 14:01
 - [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_42)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_43)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_44)
+- [[SOP: 在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_45)
 - [[在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_5)
 - [[SOP: Windows 环境部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_6)
 - [[在 Windows 部署 claude-obsidian 并配置 SOP 自动生成机制]] | [网页](https://personal-sop.vercel.app/#/workflow-sop_7)
